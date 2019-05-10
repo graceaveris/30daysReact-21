@@ -1,4 +1,4 @@
-**Day Twenty - 30 days of React challenge - "Task Manager" app**
+**Day Twenty One - 30 days of React challenge - "Task Manager" app**
 
 Chores are assigned to different users, drag and delete once the chore is complete.
 
