@@ -2,7 +2,7 @@
 
 Chores are assigned to different users, drag and delete once the chore is complete.
 
-**Concepts Explored:**
+**Concepts Explored:** 
 
 - The importance of PRE PLANNING your app!
 - Importance of careful structure of data
